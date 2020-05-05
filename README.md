@@ -6,4 +6,6 @@ Collection of technical blogs that helped me learn and understand front-end stuf
   - __CSS rendering path__: https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3/
   - __Understanding cascade__:https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8/
   - __z-index and stacking context__: https://blog.logrocket.com/how-css-works-creating-layers-with-z-index-6a20afe1550e/
+- __Clear Float?__: Important that if compatability is not a concern, use __Flex__ instead. 
+  - __Clearfloat for 0 height problem__: https://www.jianshu.com/p/9d6a6fc3e398
 
