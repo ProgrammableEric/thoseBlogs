@@ -13,4 +13,6 @@ Collection of technical blogs that helped me learn and understand front-end stuf
   - __General__: https://www.w3cschool.cn/css/css-selector.html
 - __FOUC and CSS Rendering process__
   - __FOUC__: https://juejin.im/entry/58f867045c497d0058e2ff3a
-- __BFC__: https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/#top
+- __BFC__: 
+  - https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/#top
+  - 译：https://juejin.im/entry/58f867045c497d0058e2ff3a
