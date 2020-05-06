@@ -11,4 +11,5 @@ Collection of technical blogs that helped me learn and understand front-end stuf
   - http://nicolasgallagher.com/micro-clearfix-hack/
 - __CSS Selectors__
   - __General__: https://www.w3cschool.cn/css/css-selector.html
-
+- __FOUC and CSS Rendering process__
+  - __FOUC__: https://juejin.im/entry/58f867045c497d0058e2ff3a
